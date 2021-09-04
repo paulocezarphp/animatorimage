@@ -1,8 +1,7 @@
 *{ padding: 0; margin: 0; }
-.painel{  }
+.painel{ position: fixed; width: 100%; height: 100%; left: 0px; top: 0px; }
 .painel-animator{  }
 .painel-image-display{  }
 .painel-group{  }
-.painel-group-item{  }
 .painel-group-item{  }
 .painel-group-item-image{  }
